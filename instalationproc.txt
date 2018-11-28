@@ -1,0 +1,11 @@
+#Executar o procedimento abaixo:
+https://linuxconfig.org/how-to-setup-ftp-server-on-ubuntu-18-04-bionic-beaver-with-vsftpd
+
+#Executar o procedimento abaixo:
+https://www.the-art-of-web.com/system/sftp-logging-chroot/
+
+#Criar a pasta files no home do usuário e atribuir a permissão
+mkdir ~username/files
+chmod o+rwx ~username/files
+
+
